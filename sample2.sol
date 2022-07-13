@@ -15,7 +15,6 @@ import { ISuperfluidToken } from "../interfaces/superfluid/ISuperfluidToken.sol"
 import { SignedSafeMath } from "@openzeppelin/contracts/math/SignedSafeMath.sol";
 import { SafeCast } from "@openzeppelin/contracts/utils/SafeCast.sol";
 
-
 /**
  * @dev Helper library for building super agreement
  */
