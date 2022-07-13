@@ -29,5 +29,4 @@ contract Caller {
 	function setstoredaddress(address addr) public {
 	    stored_address = addr;
 	}
-	
 }
